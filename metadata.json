@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Interop Lab",
+  "description": "Interactive Carbon and C++ interoperability workbench featuring a memory-safe binary chunk parser simulator, annotated source explorer, and migration guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
